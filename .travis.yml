@@ -23,5 +23,5 @@ after_success:
  #Docker push
  - docker push adityasharma369/multi-client
  - docker push adityasharma369/multi-ngnix
- - docker push adityasharma369/multi-server
- - docker push adityasharma369/multi-worker
+#  - docker push adityasharma369/multi-server
+#  - docker push adityasharma369/multi-worker
